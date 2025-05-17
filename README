@@ -1,0 +1,24 @@
+# Diala State Commerce Hub
+
+هذا المشروع يهدف إلى إنشاء منصة تجارة إلكترونية متكاملة.
+
+## الميزات
+
+- إدارة المنتجات والمخزون
+- معالجة الطلبات والمدفوعات
+- لوحة تحكم للمشرفين
+- دعم متعدد اللغات
+
+## المتطلبات
+
+- Node.js >= 14
+- MongoDB
+- Docker (اختياري)
+
+## بدء التشغيل
+
+```bash
+git clone https://github.com/labd2025/diala-state-commerce-hub.git
+cd diala-state-commerce-hub
+npm install
+npm start
